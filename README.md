@@ -1,6 +1,6 @@
 # Front End Masters : React Performance
 
-Forked from Steve Kinney [Packing List]([https://github.com/stevekinney/packing-list/]).
+Forked from Steve Kinney’s [Packing List](https://github.com/stevekinney/packing-list).
 
 ## Available Scripts
 
