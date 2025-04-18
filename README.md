@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Front End Masters : React Performance
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Forked from Steve Kinney [Packing List]([https://github.com/facebook/create-react-app](https://github.com/stevekinney/packing-list/)).
 
 ## Available Scripts
 
